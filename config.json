@@ -1,0 +1,24 @@
+{
+  "token": "توكن بوتك هنا",
+  "clientId": "ايدي بوتك هنا",
+  "guildId": "ايدي سيرفرك هنا",
+  "ownerId": "ايدي الاونر هنا هنا",
+  
+  "channels": {
+    "ticketCategory": " ايدي كاتيجوري التكت هنا",
+    "inquireCategory": " ايدي كاتيجوري الاستفسارات هنا",
+    "complaintCategory": " ايدي كاتيجوري الشكاوى هنا",
+    "partnershipCategory": " ايدي كاتيجوري الشراكات هنا",
+    "logs": " ايدي قنوات الوقات هنا"
+  },
+  
+  "roles": {
+    "admin": "ايدي رتبة الادمن هنا",
+    "support": "ايدي رتبة الدعم هنا"
+  },
+  
+  "appearance": {
+    "color": "#2b2d31",
+    "image": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "counter": 0,
+  "tickets": {},
+  "stats": {
+    "total": 0,
+    "open": 0,
+    "closed": 0
+  },
+  "apps_open": true,
+  "claimStats": {
+    "1195149052736708690": {
+      "claims": 0,
+      "username": ""
+    }
+  }
+}
