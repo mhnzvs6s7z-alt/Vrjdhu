@@ -1,20 +1,20 @@
 {
-  "token": "توكن بوتك هنا",
-  "clientId": "ايدي بوتك هنا",
-  "guildId": "ايدي سيرفرك هنا",
-  "ownerId": "ايدي الاونر هنا هنا",
+  "token": " MTQ2NDIwNDQwNzY2MjA1MTQyMw.GaWufj.UYSG6bBLdFpyKOufWTqSh8AqLw4DHyYZ3aNG8k",
+  "clientId": "1463624684896780460",
+  "guildId": "1523501613031882803",
+  "ownerId": "1395598168481337455",
   
   "channels": {
-    "ticketCategory": " ايدي كاتيجوري التكت هنا",
-    "inquireCategory": " ايدي كاتيجوري الاستفسارات هنا",
-    "complaintCategory": " ايدي كاتيجوري الشكاوى هنا",
-    "partnershipCategory": " ايدي كاتيجوري الشراكات هنا",
-    "logs": " ايدي قنوات الوقات هنا"
+    "ticketCategory": "1526604915793854728",
+    "inquireCategory": "1526604915793854728",
+    "complaintCategory": "1526605188675272846",
+    "partnershipCategory": "1526605133557792798",
+    "logs": "1526156960511037630"
   },
   
   "roles": {
-    "admin": "ايدي رتبة الادمن هنا",
-    "support": "ايدي رتبة الدعم هنا"
+    "admin": "1526593228315295914",
+    "support": "1526595365132832900"
   },
   
   "appearance": {
